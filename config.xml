@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.lightlab.ble.controller" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>Arup BLE Lighting Controller</name>
+    <description>
+        Cordova Application to control BLE Lighting
+    </description>
+    <author href="https://lightlab.arup.com/">
+        Ben Hussey
+    </author>
+    <content src="index.html" />
+    <access origin="*" />
+    <preference name="orientation" value="portrait" />
+</widget>
